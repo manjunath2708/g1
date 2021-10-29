@@ -1,2 +1,10 @@
 lets go
+create new file 
+git status 
+git add .
+git commit -m ""
+git init 
+git remote -v
+git remote a((ssh)
+git push -u origin master 
 
